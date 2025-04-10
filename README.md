@@ -1,6 +1,6 @@
 # CALCULATOR
 
-![LED Calculator Animation](D:\Abed_A12_DKV2\github\calculator\gif\2025-04-10-CALCULATOR.gif)
+![LED Calculator Animation](2025-04-10-CALCULATOR.gif)
 
 ## Description
 
