@@ -1,6 +1,10 @@
-# CALCULATOR
+<div align="center">
+  <h1><strong>ABED's CALCULATOR</strong></h1>
+</div>
 
-![LED Calculator Animation](2025-04-10-CALCULATOR.gif)
+<div align="center">
+  <img src="2025-04-10-CALCULATOR.gif" alt="calculator text animation">
+</div>
 
 ## Description
 
