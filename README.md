@@ -13,7 +13,7 @@ This is a simple calculator application that allows users to perform basic arith
 - Multiplication
 - Division
 
-## + interactive UI!!
+# + interactive UI!!
 
 ## Installation
 
