@@ -13,10 +13,12 @@ This is a simple calculator application that allows users to perform basic arith
 - Multiplication
 - Division
 
+## + interactive UI!!
+
 ## Installation
 
 To run this project, clone the repository and open `index.html` in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/soluxandor/calculator.git
 cd calculator
